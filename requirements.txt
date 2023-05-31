@@ -1,0 +1,10 @@
+1. Install Python
+2. run the command "pip install flask"
+3. run the command "pip install openai"
+
+Generate your API key from the open_ai website and paste it in app.py file.
+"  openai.api_key = 'YOUR_API_KEY' "
+you need to replace your api key with the keyword "YOUR_API_KEY".
+
+
+you are ready with the project run it and start chatting. All the best.
